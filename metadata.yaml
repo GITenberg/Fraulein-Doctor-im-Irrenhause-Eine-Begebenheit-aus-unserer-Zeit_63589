@@ -1,0 +1,25 @@
+_repo: Fraulein-Doctor-im-Irrenhause-Eine-Begebenheit-aus-unserer-Zeit_63589
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thenen, Julie
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '52510'
+    url: http://www.gutenberg.org/2009/agents/52510
+    wikipedia: https://de.wikipedia.org/wiki/Julie_Thenen
+description: ''
+gutenberg_issued: '2020-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63589'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Austrian fiction'
+- GITenberg
+title: 'Fräulein Doctor im Irrenhause: Eine Begebenheit aus unserer Zeit'
+url: http://www.gutenberg.org/ebooks/63589
